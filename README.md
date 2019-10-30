@@ -15,5 +15,5 @@
 
 1. [open dir](./01_) Chatbot V1(python + jupyter)
 2. [open dir](./02_) Chatbot V2(python + spyder + telegram)
-3. [open dir](./03_) Chatbot V3(python + VScode + IBM watson API + telegram)
+3. [open dir](./03_) Chatbot V3(python + vscode + IBM watson API + telegram)
 4. [open dir](./04_) Sentiment Analysis V1(naver movie review + python + jupyter)
