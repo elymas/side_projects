@@ -14,6 +14,6 @@
 주피터 노트북파일(.ipynb)은 [nbviewer](https://nbviewer.jupyter.org/)를 통해 웹에서 열람가능합니다.
 
 1. [open dir](./01_) Chatbot V1(python + jupyter)
-2. [open dir](./02_) Chatbot V2(python + telegram)
-3. [open dir](./03_) Chatbot V3(python + IBM watson API + telegram)
-4. [open dir](./04_) Sentiment Analysis V1(naver movie review + python)
+2. [open dir](./02_) Chatbot V2(python + spyder + telegram)
+3. [open dir](./03_) Chatbot V3(python + VScode + IBM watson API + telegram)
+4. [open dir](./04_) Sentiment Analysis V1(naver movie review + python + jupyter)
