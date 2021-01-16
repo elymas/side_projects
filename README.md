@@ -1,6 +1,6 @@
 ## Side Projects(사이드 프로젝트)
 
-![Python 3.7.4](https://img.shields.io/badge/Python-3.7.4-blue.svg?style=plastic)
+![Python 3.7.9](https://img.shields.io/badge/Python-3.7.9-blue.svg?style=plastic)
 
 
 본 자료와 관련하여 궁금한 점이나 오류가 있다면 깃허브에 이슈를 남겨 주시거나  
@@ -13,7 +13,4 @@
 `open_dir` 링크를 클릭하면 프로젝트별 서브디렉토리로 이동합니다.   
 주피터 노트북파일(.ipynb)은 [nbviewer](https://nbviewer.jupyter.org/)를 통해 웹에서 열람가능합니다.
 
-1. [open dir](./01_) Chatbot V1 | 지하철 환승구간 안내 챗봇(python + jupyter)
-2. [open dir](./02_) Chatbot V2 | 강남구 전월세 매물 안내 챗봇(python + spyder + ngrok + telegram)
-3. [open dir](./03_) Chatbot V3 | [챗봇톤 출품작] 서울 청년수당 안내 챗봇(python + vscode + heroku + IBM watson + telegram)
-4. [open dir](./04_) Sentiment Analysis V1 | 네이버 영화 '조커' 리뷰 분석(python + jupyter)
+1. [open dir](./breast_cancer_detection) Breast Cancer Detection (vscode + jupyter)
