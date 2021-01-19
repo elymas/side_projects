@@ -14,3 +14,4 @@
 주피터 노트북파일(.ipynb)은 [nbviewer](https://nbviewer.jupyter.org/)를 통해 웹에서 열람가능합니다.
 
 1. [open dir](./breast_cancer_detection) Breast Cancer Detection (vscode + jupyter)
+2. [open dir](./flappy_circle_hack) Flappy Circle Hack (vscode + selenium)
