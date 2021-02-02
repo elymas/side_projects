@@ -19,3 +19,5 @@
 4. [open dir](./04_optimization_problem_solving) Solving Optimization Problem using IBM Decision Optimization CPLEX python API (vscode + CPLEX)
 5. [open dir](./05_python_mini_project) Password Fort + Question Recognition (vscode)
 6. [open dir](./06_dl_in_time_series_analysis) Deep Learning in Time Series Analysis (vscode + tensorflow)
+7. [open dir](./07_sl_in_time_series_analysis) Statistical Learning in Time Series Analysis (vscode + statsmodels)
+8. [open dir](./08_advanced_pandas) Advanced Pandas method (vscode + pandas)
